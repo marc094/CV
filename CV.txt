@@ -1,0 +1,12 @@
+#Formation
+*Currently studying Degree in Video Games Development and Programming - Tech Talent Center - Universitat Politecnica de Catalunya (2020 promotion) ;Finalized in 2016 - Top Grade Training Cycle in Multi-platform Applications Development - Video Games and Digital Leisure - Escola Pia Balmes
+#Languages
+*English: First Certificate of English - 2010 ;Spanish and Catalan: Native speaker
+#Technical Knowledge
+*Advanced programming in C++, java, C#, JavaScript ;Basic Html5, JQuery, CSS ;Basics of database programming and structure ;Basic Photoshop CS6, 3D Studio Max and ZBrush
+#Professional Experience
+*JavaScript programmer at Pupgam Studios (Dec 2015 - Present): GUI and gameplay programming, and data structures for web and mobile games as well as team management.
+#Completed Projects
+*Undead Ketchup: July 2015, Game developed in Unity 2D during ‘Valles Game Jam’. https://www.youtube.com/watch?v=uYbOuGv-kH8 ;Be a Monster: May 2015 to June 2015, Final project of the first year of the TDTC. Developed in Unity 2D. https://www.youtube.com/watch?v=teMrOkoz7QQ ;Asteroids: March 2015, First 2d game developed in the TDTC. Developed in Unity 2D. https://www.youtube.com/watch?v=KRAjvW_pUVg ;MinePath: January to June 2016, Final project for the TDTC. Developed in Unity 2D. https://youtu.be/edgQLM6uP5M ;Gauntlet: March to June 2016, Project for the Programming subject in the TDTC. It was coded in C++ using SDL libraries. 2D top-down action game, clone of the original Gauntlet arcade game (1985). ;Commando: February to June 2017, First year's project for the Degree in Video Games Development and Programming, developed by a group of 4 people. Coded in C++ using SDL libraries. 2D top-down shooter, clone of the original Commando arcade game (1985). https://www.youtube.com/watch?v=Ydn1O_aCamU
+#Other Data
+*Mobility: Near Barcelona and Baix Llobregat;Driving license: Yes;Availability schedule: Part-time on afternoons
